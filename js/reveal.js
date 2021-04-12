@@ -2,7 +2,7 @@
  * reveal.js
  * http://lab.hakim.se/reveal-js
  * MIT licensed
- * Prueba de cambio
+ * Prueba de cambio XXXX
  * Copyright (C) 2017 Hakim El Hattab, http://hakim.se
  */
 (function( root, factory ) {
